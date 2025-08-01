@@ -1,7 +1,5 @@
 # Unit - 1
 
-## Note:
-
 ## Words:
 1. **Maj-** Good
 2. **Quapla'-** Success
@@ -11,3 +9,4 @@
 
 
 ## Sentences:
+1. **toH nuqneH -** So, what do you want? 
