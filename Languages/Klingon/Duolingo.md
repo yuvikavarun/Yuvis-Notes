@@ -11,6 +11,7 @@
 8. **van-** (he/she) salutes
 9. **jang-** (he/she) answers
 10. **baH-** (he/she) fires
+11. **mane** solider
 
 ## Sentences:
 1. **toH nuqneH -** So, what do you want?
