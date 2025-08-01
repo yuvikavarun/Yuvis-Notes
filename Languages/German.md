@@ -33,6 +33,8 @@ ___
 1. Bär - Bear
 2. Maus - Mouse
 3. Wo - Where
+4. Eule - Owl
+5. Oh - Oh
 
 
 ## Sentences:
@@ -44,3 +46,5 @@ Where is the dog?
 
 3. **Wo ist die Mous?**
 Where is the mouse
+
+4. **Oh der Bär ist groß** - Oh the bear is tall. 
