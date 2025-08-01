@@ -25,12 +25,20 @@ Milk and coffee, please. Thank you.
 
 2. 
 
+___
+# UNIT - 2
+## Note:
+German nouns have gender (masculine or feminine), and words like ein or mein change form to match the noun’s gender.
 
+## Words:
+1.
+
+## Sentences:
 
 ___
 # UNIT - 3
-##Notes:
-German nouns have gender (masculine or feminine), and words like ein or mein change form to match the noun’s gender.
+## Note:
+
 
 ## Words:
 1. Bär - Bear
