@@ -21,8 +21,7 @@ In German, we capitalize **every** noun.
 
 ## Sentences:
 1. **Milche und kaffe, bitte. Danke!**
-  
-   Milk and coffee, please. Thank you.
+- Milk and coffee, please. Thank you.
 
 2. 
 
@@ -36,13 +35,12 @@ ___
 3. Wo - Where
 
 
-##Sentences:
+## Sentences:
 1. **Du bist ein Bär**
- 
-   You are a bear. 
+- You are a bear. 
 
 2. **Wo ist der hund?**
-  
-   Where is the dog? 
+- Where is the dog? 
 
-3. 
+3. **Wo ist die Mous?**
+- Where is the mouse
