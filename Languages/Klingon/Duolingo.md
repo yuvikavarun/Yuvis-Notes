@@ -3,5 +3,6 @@
 ## Note:
 
 ## Words:
-1. **Maj -** Good
-2. **Quapla -** Success
+1. **Maj-** Good
+2. **Quapla'-** Success
+3. **Ha'-** Let's go
