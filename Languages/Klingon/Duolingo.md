@@ -8,6 +8,7 @@
 5. **nuqneH-** What do you want
 6. **nab-** She plans
 7. **yaj-** He/she understands
+8. **van-** She salutes
 
 
 ## Sentences:
