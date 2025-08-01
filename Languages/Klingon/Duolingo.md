@@ -10,6 +10,7 @@
 7. **yaj-** (he/she) understands
 8. **van-** (he/she) salutes
 9. **jang-** (he/she) answers
+10. **baH-** (he/she) fires
 
 ## Sentences:
 1. **toH nuqneH -** So, what do you want?
