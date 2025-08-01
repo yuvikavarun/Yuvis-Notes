@@ -7,6 +7,7 @@
 4. **toH-** So
 5. **nuqneH-** What do you want
 6. **nab-** She plans
+7. **yaj-** He/she understands
 
 
 ## Sentences:
