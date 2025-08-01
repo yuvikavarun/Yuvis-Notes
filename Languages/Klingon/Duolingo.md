@@ -6,10 +6,10 @@
 3. **Ha'-** Let's go
 4. **toH-** So
 5. **nuqneH-** What do you want
-6. **nab-** She plans
-7. **yaj-** He/she understands
-8. **van-** She/he salutes
-
+6. **nab-** (he/she) plans
+7. **yaj-** (he/she) understands
+8. **van-** (he/she) salutes
+9. **jang-** (he/she) answers
 
 ## Sentences:
 1. **toH nuqneH -** So, what do you want?
