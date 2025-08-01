@@ -8,8 +8,9 @@
 5. **nuqneH-** What do you want
 6. **nab-** She plans
 7. **yaj-** He/she understands
-8. **van-** She salutes
+8. **van-** She/he salutes
 
 
 ## Sentences:
-1. **toH nuqneH -** So, what do you want? 
+1. **toH nuqneH -** So, what do you want?
+2. **van, Quapla'! -** She salutes, success! 
