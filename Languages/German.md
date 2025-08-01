@@ -38,7 +38,7 @@ German nouns have gender (masculine or feminine), and words like ein or mein cha
 ___
 # UNIT - 3
 ## Note:
-
+In German, all nouns have gender (not just people), and articles like der (masculine) or die (feminine) change based on that, so always learn the noun with its article (e.g., der Bär, die Katze).
 
 ## Words:
 1. Bär - Bear
