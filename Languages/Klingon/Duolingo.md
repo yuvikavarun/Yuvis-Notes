@@ -6,3 +6,4 @@
 1. **Maj-** Good
 2. **Quapla'-** Success
 3. **Ha'-** Let's go
+4. **toH-** So
