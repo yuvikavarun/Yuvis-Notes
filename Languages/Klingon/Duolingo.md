@@ -14,6 +14,7 @@
 11. **mane-** solider
 12. **dev-*" (he/she) leads
 13. **HeD-** (he/she) retreats
+14. **mein** (he/she) stops
 
 ## Sentences:
 1. **toH nuqneH -** So, what do you want?
