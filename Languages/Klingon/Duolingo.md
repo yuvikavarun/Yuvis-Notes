@@ -13,6 +13,7 @@
 10. **baH-** (he/she) fires
 11. **mane-** solider
 12. **dev-*" (he/she) leads
+13. **HeD-** (he/she) retreats
 
 ## Sentences:
 1. **toH nuqneH -** So, what do you want?
