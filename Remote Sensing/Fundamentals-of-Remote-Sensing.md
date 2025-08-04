@@ -1,4 +1,4 @@
-# Earth Observations:
+ # Earth Observations:
 - Studying the Earth in an integrated way is essential to understanding the causes and consequenses of climate change and other global environmental concerns.
 - We study the entire Earth systems to noyt just observe what is changing but also understand how changes in one of these systems impact all of the others.
 
