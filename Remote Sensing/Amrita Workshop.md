@@ -35,7 +35,12 @@ Active RS works 24/7, while Passive RS works only during the day when a energy s
   - _Panchromatic:_ One band. eg; Landsat, Cartosat, Sentinal (Resolution is beter)
   - _Multi spectral:_ Upto 10 bands. eg; IRS Series, Landsat, MODIS
   - _Hyperspectral:_ 100s of narrow bands. eg; PRISM, Hyperion
-- **Temporal Resolution:** Frequency at which a sensor aquires data over the same area. 
+- **Temporal Resolution:** Frequency at which a sensor aquires data over the same area.
+
+## Data processing:
+- **Level 0:** Unprocessed raw data
+- **Level 1:** Errors are callibrated and precisely located on Earth's surface
+- **Level 2**
 
 
 
