@@ -31,7 +31,13 @@ Active RS works 24/7, while Passive RS works only during the day when a energy s
 ## Sensor Resolution
 - **Spatial Resolution:** Refers to thr size of the smallest possible thing that can be sensed.
 - **Radiometric Resolution:** The sensor's ability to differentiate between subtle differences in energy intensity
-- **Spectral Resolution:** 
+- **Spectral Resolution:** Refers to the number and width of specific wavelength bands a sensor can detect.
+  - _Panchromatic:_ One band. eg; Landsat, Cartosat, Sentinal (Resolution is beter)
+  - _Multi spectral:_ Upto 10 bands. eg; IRS Series, Landsat, MODIS
+  - _Hyperspectral:_ 100s of narrow bands. eg; PRISM, Hyperion
+- **Temporal Resolution:** Frequency at which a sensor aquires data over the same area. 
+
+
 
 ## Reflectance 
 
