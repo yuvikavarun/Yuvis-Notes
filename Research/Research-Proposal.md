@@ -22,17 +22,21 @@
 - **Qualitative Data:** Non-numerical insights (e.g., emotions, reactions).
 - **Quantitative Data:** Numerical data for statistical analysis.
 
+## Analytical Tools
+- **Qualitative Tools:**
+  - Content/text analysis
+  - Coding/grouping techniques
+  - Facial expression cues
+  - Reaction interpretation
 
-- **Quantitative Tools:
-**
+- **Quantitative Tools:**
   - Descriptive statistics
   - Hypothesis testing
   - Regression models
-
-Multivariate analyses
-
-Data mining
-
-Predictive modeling
-
-Conjoint analys
+  - Multivariate analyses
+  - Data mining
+  - Predictive modeling
+  - Conjoint analys
+ 
+Software & Methods
+Various software tools are used to support both qualitative and quantitative analysis (details to be covered later).
