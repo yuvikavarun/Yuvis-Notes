@@ -16,3 +16,23 @@
 - Secondary research
 - In-depth interviews
 - Observational research
+
+
+## Types of Data
+- **Qualitative Data:** Non-numerical insights (e.g., emotions, reactions).
+- **Quantitative Data:** Numerical data for statistical analysis.
+
+
+- **Quantitative Tools:
+**
+  - Descriptive statistics
+  - Hypothesis testing
+  - Regression models
+
+Multivariate analyses
+
+Data mining
+
+Predictive modeling
+
+Conjoint analys
