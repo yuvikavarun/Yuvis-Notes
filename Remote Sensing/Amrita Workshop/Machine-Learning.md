@@ -25,6 +25,7 @@ One epoch is one full read through of the entire dataset. And one iteration is o
       - **Regression:**
         - 
         - eg; Ad Popularity Predictio, Weather Forecasting, Market Forecasting, Estimating Life Expectancy, Populaton growth prediction
+
       - **Classification:**
 3. **Unsupervised Learning:**
    We provide raw data with no labels. The model finds out hidden patterns
