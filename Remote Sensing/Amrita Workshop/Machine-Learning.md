@@ -23,7 +23,6 @@ One epoch is one full read through of the entire dataset. And one iteration is o
 
    Common Algorithms:
       - **Regression:**
-        - 
         - eg; Ad Popularity Predictio, Weather Forecasting, Market Forecasting, Estimating Life Expectancy, Populaton growth prediction
 
       - **Classification:**
