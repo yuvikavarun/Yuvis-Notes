@@ -9,3 +9,10 @@
 - Step 3: Gather information.
 - Step 4: Analyze the data.
 - Step 5: Communicate findings to stakeholders.
+
+## Common Data Collection Techniques
+- Surveys
+- Focus groups
+- Secondary research
+- In-depth interviews
+- Observational research
