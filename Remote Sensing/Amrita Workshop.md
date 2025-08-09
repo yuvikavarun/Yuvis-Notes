@@ -45,6 +45,6 @@ Active RS works 24/7, while Passive RS works only during the day when a energy s
 
 
 
-## Reflectance 
+## Reflectance  
 
 
