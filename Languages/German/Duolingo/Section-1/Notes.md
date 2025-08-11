@@ -63,11 +63,11 @@ ___
 In German, all nouns have gender (not just people), and articles like der (masculine) or die (feminine) change based on that, so always learn the noun with its article (e.g., der Bär, die Katze).
 
 ## Words:
-1. Bär - Bear
-2. Maus - Mouse
-3. Wo - Where
-4. Eule - Owl
-5. Oh - Oh
+1. **Bär** - Bear
+2. **Maus** - Mouse
+3. **Wo** - Where
+4. **Eule** - Owl
+5. **Oh** - Oh
 6. **der -** the (masc)
 7. **die -** the (fem)
 8. **Junge -** boy
@@ -96,4 +96,22 @@ __
 # UNIT - 5
 ## Note:
 MAny german words have a silent 'h' in them. This 'h' makes the vowel before it just a little bit longer.
-eg: S**oh**n
+eg: S**oh**n, g**eh**t
+
+## Words:
+1. **ES geht -** I'm good
+2. **Guten Morgen -** Good morning
+3. **Guten Tag -** Good afternoon
+4. **Guten Abend -** Good evening
+5. **Wie geht's? -** How are you?
+6. **Prost -** Cheers
+7. **Bis bald -** See you soon
+8. **bis spater -** see you later
+9. **OK -** Okay
+10. **Auf Wiedersehen -** Goodbye
+11. **Naturlich -** Of course
+12. **Kein -** No
+13. **Problem -** problem
+14. **Es tut mir leid -** I'm sorry
+15. **Es geht -** I'm all right
+16. 
