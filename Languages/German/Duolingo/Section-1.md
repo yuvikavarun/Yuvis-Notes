@@ -122,3 +122,4 @@ ___
 
 ## Words:
 1. **Pizza -** pizza
+2. **Käze -** cheese
