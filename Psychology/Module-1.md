@@ -13,3 +13,10 @@ This type of learning involves the repeated association of a previously neutral 
 - **Conditioned response (CR) -** a learned response to a conditioned stimulus. Pavlov's dogs learned to salivate at the bell.
 Note: Conditioning is another term for learning. Any stimulus or response that is unconditioned, simply means unlearned, or before learning has taken place.
 <img width="460" height="275" alt="image" src="https://github.com/user-attachments/assets/e60a1a0e-fe36-42e0-858c-ce244c67d757" />
+
+## Elements in Classical Conditioning:
+The main elements involved in classical conditioning are:
+- **Extinction -** when a conditioned response is no longer reinforced by the unconditioned stimulus, the conditioned response will cease to occur. For example, if the bell (CS) is continually presented without the meat (UCS), the dog will eventually stop salivating (CR) at the bell alone.
+- **Stimulus generalisation -** when an organism has been conditioned to respond to a stimulus, it will often respond to similar stimuli. For example, Pavlov's dogs responded to bells of a similar pitch to the original bell.
+- **Stimulus discrimination -** when an organism responds to a conditioned stimulus but detects a difference in other stimuli and therefore doesn't respond to them. Pavlov's dogs did not respond to bell-like stimuli that were quite different from the original bell.
+- **Spontaneous recovery -** the reappearance of a conditioned response after extinction and a rest period.
