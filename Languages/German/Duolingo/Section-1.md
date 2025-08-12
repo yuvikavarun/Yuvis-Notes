@@ -114,4 +114,11 @@ eg: S**oh**n, g**eh**t
 13. **Problem -** problem
 14. **Es tut mir leid -** I'm sorry
 15. **Es geht -** I'm all right
-16. 
+
+___
+# UNIT - 4
+## Note:
+
+
+## Words:
+1. **Pizza -** pizza
