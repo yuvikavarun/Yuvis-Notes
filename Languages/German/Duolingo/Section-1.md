@@ -92,7 +92,7 @@ In German, all nouns have gender (not just people), and articles like der (mascu
 4. **Oh der Bär ist groß --** Oh the bear is tall.
 
 
-__
+___
 # UNIT - 5
 ## Note:
 MAny german words have a silent 'h' in them. This 'h' makes the vowel before it just a little bit longer.
