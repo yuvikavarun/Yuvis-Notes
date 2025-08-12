@@ -123,3 +123,6 @@ ___
 ## Words:
 1. **Pizza -** pizza
 2. **Käze -** cheese
+3. **lecker -** delicious
+4. **Salat -** salad
+5. **heiß -** hot
