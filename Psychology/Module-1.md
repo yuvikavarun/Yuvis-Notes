@@ -24,4 +24,4 @@ The main elements involved in classical conditioning are:
 
 ___
 ## Operant conditioning
-
+Operant conditioning is learning where the consequence is dependent on the organism's response. The consequence then influences the likelihood of the behaviour occurring. Skinner studied hungry rats in specially designed 'skinner' boxes. These boxes were equipped with a lever which, when pressed, dispensed food or water.
