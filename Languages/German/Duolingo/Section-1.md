@@ -120,10 +120,32 @@ ___
 ## Note:
 
 
-
 ## Words:
 1. **Pizza -** pizza
 2. **Käze -** cheese
 3. **lecker -** delicious
 4. **Salat -** salad
 5. **heiß -** hot
+6. **Kellner -** waiter
+7. **Salz -** salt
+8. **Speisekarte -** menu
+9. **Entscguldigung -** excuse me
+10. **kalt -** cold
+11. **Essen -** food
+12. **Wurst -** sausage
+13. **Rechnung -** Check
+14. **Schnitzel -** schnitzel
+15. **zu -** too
+16. **mit -** with
+17. **Ei -** egg
+18. **Sandwich -** sandwich
+19. **hier -** here
+20. **das -** the
+21. **Mineralwasser -** mineral water
+22. 
+
+## Sentences:
+1. **Wo ist der Kellner? --** Where is the waiter?
+2. **Wo ist das Restaurant? --** Where is the restaurant
+3. **Entschuldigung, der Tee ist kalt. --** Excuse me the tea is cold.
+4. **Die Pizza ist zu groB! --** The pizza is too big!
