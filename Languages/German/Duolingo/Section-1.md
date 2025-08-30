@@ -142,7 +142,6 @@ ___
 19. **hier -** here
 20. **das -** the
 21. **Mineralwasser -** mineral water
-22. 
 
 ## Sentences:
 1. **Wo ist der Kellner? --** Where is the waiter?
