@@ -9,4 +9,7 @@
 9. [Electrodynamics (Advanced E&M)](https://www.youtube.com/playlist?list=PLRXOxB3SJmi07vGox-fvOmfTqqgFV-JMS) : UNSW Physics - Electromagnetism
 10. [Computational Physics](https://www.youtube.com/playlist?list=PLXmUYdQdC9IGv61Y1lhGBH0NsDQRdwcJE) : Rutgers University - Computatinal Physics in Python by Prof. Kristjan Haule
 11. [Astronomy & Observational Methods](https://www.youtube.com/playlist?list=PLNycEeeRg4mXbYSrbzsAdubj1qcubqsz-) : Virginia Peninsula Community College - General Astronomy by Dr. Frank Spahn
-12. [Stellar Structure & Evolution](
+12. [Stellar Structure & Evolution](https://www.youtube.com/playlist?list=PL4B018ABA8BD3FFB8) : Yale University - Frontiers and Controversies in Astrophysics by Prof. Charles Bailyn
+13. [General Relativity](https://www.youtube.com/playlist?list=PL9YY-u_YWqQQQKEP9zn5J2YvRnBGR13DR) : Stanford - General Relativity by Leonard Susskind
+14. [Galactic Dynamics & Cosmology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra) : MIT 8.286 - The Early Universe by Alan Guth
+15. [String Theory](https://www.youtube.com/playlist?list=PLAk3_5JJVYZuuXvmT3QFTfsKG_Zoj59Wu) : Stanford - String Theory & M-Theory by Leonard Susskind
