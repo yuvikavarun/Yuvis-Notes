@@ -149,6 +149,8 @@ ___
 3. **Entschuldigung, der Tee ist kalt. --** Excuse me the tea is cold.
 4. **Die Pizza ist zu groB! --** The pizza is too big!
 
+---
+
 # UNIT - 6
 ## Words:
 1. **Amerika -** America
@@ -167,7 +169,6 @@ ___
 14. **laut -** loud
 15. **aufregend -** exciting
 16. **auch -** also
-17.  
 
 ## Sentences:
 1. **Woher kommst du? -** Where are you from?
@@ -175,4 +176,16 @@ ___
 3. **Ist wien teuer?** Is Vienna expensive?
 4. **Wien ist aufregend. -** Vienna is exciting
 5. **Wie ist es in Berlin?** What is it like in berlin?
-6. 
+
+---
+
+# UNIT - 7
+## Words:
+1. **Kellnerin -** Waitress
+2. **Kellner -** Waiter
+3. **Sie -** She
+4. **Er -** He
+5. **Schauspieler -** Actor
+6. **Schauspielerin -** Actress
+7. **Essen -** Food
+8. 
