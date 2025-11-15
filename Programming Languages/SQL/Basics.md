@@ -14,4 +14,16 @@ ORDER BY name;
 ```
 
 ## Ordering Data
-- ```ORDER BY``` - orders the data in increasing order
+- ```ORDER BY``` - orders the data in increasing alphabetical/numerical order
+- ```ASC``` - added at the end of order by query to order it in ascending order
+- ```DESC``` - orders in descending order
+
+## Filtering Data
+- ```WHWERE``` - selects only the  items that fulfill a condition, like having the value Biology on the major column.
+example:
+```
+SELECT *
+FROM students
+WHERE major = 'Biology'
+```
+- ```=``` - an operator that checks if two things are equal
