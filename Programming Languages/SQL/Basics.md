@@ -27,8 +27,8 @@ WHERE major = 'Biology'
 ```
 
 ## Operators
-- ```=``` - checks if two things are equal
-- ```<>``` - checks if things are not equal
+- ```=``` - equality operator (to get items that satisfy a condition)
+- ```<>``` - inequality operator (to get all items that do not satisfy a condition)
 example:
 ```
 SELECT *
