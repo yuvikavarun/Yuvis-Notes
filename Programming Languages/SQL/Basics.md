@@ -29,9 +29,14 @@ WHERE major = 'Biology'
 ## Operators
 - ```=``` - equality operator (to get items that satisfy a condition)
 - ```<>``` - inequality operator (to get all items that do not satisfy a condition)
+- ```<``` - less than
+- ```>``` - greater than
+- ```<=``` - less than/ equal to
+- ```>=``` - greater than/ equal to
+- 
 example:
 ```
 SELECT *
 FROM students
-WHERE ;
+WHERE marks >= 80;
 ```
