@@ -18,12 +18,21 @@ ORDER BY name;
 ```
 
 ## Filtering Data
-- ```WHWERE``` - selects only the  items that fulfill a condition, like having the value Biology on the major column.
+- ```WHERE``` - selects only the  items that fulfill a condition, like having the value Biology on the major column.
+- ```AS``` - alias
+- ```LIKE``` - pattern matching
 example:
 ```
 SELECT *
 FROM students
 WHERE major = 'Biology'
+```
+
+example2:
+```
+SELECT*
+FROM students
+WHERE course_id LIKE '___-%
 ```
 
 ## Operators
@@ -39,4 +48,28 @@ example:
 SELECT *
 FROM students
 WHERE marks >= 80;
+```
+
+## Set Operations
+- ```UNION``` - combines results from two queries. Removes duplicates automatically
+  - ```UNION ALL``` - keeps duplicates
+- ```INTERSECT``` - returns only the rows in both query results
+- ```EXCEPT``` - returns only rows from the first query that are not in the second
+
+## Aggregation Functions:
+- ```GROUP BY``` - groups
+  - ```AVG``` - average
+  - ```COUNT``` - counts rows
+  - ```SUM``` - adds up value
+  - ```MIN``` - finds the smallest value in a group
+  - ```MAX``` - finds the highest value in a group
+note: we cannot use ```WITH``` while using ```<``` or ```>``` we gotta use ```HAVING```
+example:
+```
+SELECT class_id, AVG(marks) 
+FROM students 
+GROUP BY class_id 
+HAVING AVG(marks) > 75;SELECT*
+FROM students
+WHILE student_marks > AVG marks;
 ```
